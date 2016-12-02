@@ -9,3 +9,5 @@
 # this is update 3 from PC at  2:17 pm Dec 2, 2016
 
 # this is an update from Github console for bugs-001 branch
+
+# this is an update from PC for bugs-002 branch
